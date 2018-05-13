@@ -1,0 +1,31 @@
+<resources>
+  <string name="app_name">ScrollShotTester</string>
+  <string name="list_view">List View</string>
+  <string name="button">Button</string>
+  <string-array name="array_languages">
+    <item>Android</item>
+    <item>Java</item>
+    <item>Php</item>
+    <item>Hadoop</item>
+    <item>Sap</item>
+    <item>Python</item>
+    <item>Ajax</item>
+    <item>C++</item>
+    <item>Ruby</item>
+    <item>Rails</item>
+    <item>C#</item>
+    <item>Perl</item>
+    <item>ES6</item>
+    <item>Rust</item>
+    <item>Go-Lang</item>
+    <item>Kotlin</item>
+    <item>Swift</item>
+    <item>Coffee Script</item>
+    <item>English</item>
+    <item>French</item>
+    <item>Hindi</item>
+    <item>Russian</item>
+    <item>German</item>
+    <item>Marathi</item>
+  </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+  <Button
+    android:id="@+id/list_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:onClick="openListView"
+    android:text="List View"/>
+
+  <Button
+    android:id="@+id/constraint_layout_scrollview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:onClick="openConstraintLayout"
+    android:text="Constraint Layout Inside Scroll View"/>
+
+  <Button
+    android:id="@+id/rc_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:onClick="openRCView"
+    android:text="Recyler View"/>
+
+</LinearLayout>
