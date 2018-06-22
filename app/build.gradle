@@ -24,9 +24,7 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:24.1.0'
     compile 'com.android.support:appcompat-v7:24.1.0'
     compile 'com.qozix:tileview:2.2.9'
-    compile('com.github.tushardhole:scrollshot:0.0.2@aar') {
-        transitive = true
-    }
+    compile 'com.github.tushardhole:scrollshot:1.0.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     androidTestCompile 'junit:junit:4.12'
     androidTestCompile 'com.android.support.test:runner:1.0.1'
